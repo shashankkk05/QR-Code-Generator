@@ -1,9 +1,3 @@
-# QR-Code-Generator
-
-Of course! Here's a **professional README** for your **QR Code Generator** project:
-
----
-
 # QR Code Generator 🧩
 
 This is a simple and clean **QR Code Generator** web application built using **HTML**, **CSS**, and **JavaScript**.  
