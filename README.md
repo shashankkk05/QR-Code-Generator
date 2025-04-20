@@ -48,11 +48,5 @@ It allows users to easily generate QR codes for any text or URL!
 - Add **Dark/Light mode** switch
 - Improve responsive design for mobile users
 
----
 
-
-
-Made with ❤️ by **Your Name**
-
----
 
