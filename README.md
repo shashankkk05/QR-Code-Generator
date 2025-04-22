@@ -46,7 +46,7 @@ It allows users to easily generate QR codes for any text or URL!
 - Add **Download QR Code** button
 - Add **Copy link** to clipboard
 - Add **Dark/Light mode** switch
-- Improve responsive design for mobile users
+- Improve responsive design for mobile users.
 
 
 
