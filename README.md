@@ -11,7 +11,7 @@ It allows users to easily generate QR codes for any text or URL!
 - Simple and clean user interface
 - QR Code displays dynamically on button click
 - Error handling for empty input
-- Mobile-friendly (with a little CSS tweaking)
+- Mobile-friendly (with a little CSS tweaking).
 
 ---
 
