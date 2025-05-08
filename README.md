@@ -7,7 +7,7 @@ It allows users to easily generate QR codes for any text or URL!
 
 ## Features ✨
 
-- Generate QR codes instantly for any text or link
+- Generate QR codes instantly for any text or link.
 - Simple and clean user interface
 - QR Code displays dynamically on button click
 - Error handling for empty input
